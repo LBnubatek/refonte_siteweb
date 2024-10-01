@@ -2,37 +2,37 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "Page d'accueil"
 url = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "Nous contacter"
 url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
+name = "Carrière"
 url = "/elements"
 weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Services"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
+parent = "Services"
+name = "Digitalisation"
 url = "/blog"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
+parent = "Services"
+name = "AI"
 url = "/contact"
 
 [[main]]
-parent = "Pages"
-name = "Authors"
+parent = "Services"
+name = "Expertise globale"
 url = "/authors"
 
 [[main]]
@@ -48,16 +48,16 @@ url = "/404"
 
 # footer menu
 [[footer]]
-name = "About"
+name = "Réseaux sociaux"
 url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
+name = "Nous contacter"
 url = "/elements"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
+name = "Mentions légales"
 url = "/privacy-policy"
 weight = 3
