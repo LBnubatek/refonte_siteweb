@@ -7,44 +7,72 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Nous contacter"
+name = "À propos"
 url = "/about"
 weight = 2
 
+#[[main]]
+#name = "Carrière"
+#url = "/elements"
+#weight = 3
+
 [[main]]
-name = "Carrière"
-url = "/elements"
+name = "Nos équipes"
+url = "/authors"
 weight = 3
 
 [[main]]
-weight = 4
-name = "Services"
-
-[[main]]
-parent = "Services"
-name = "Digitalisation"
+name = "Blog"
 url = "/blog"
 
+#[[main]]
+#weight = 4
+#name = "Services"
+
+#[[main]]
+#parent = "Services"
+#name = "Blog"
+#url = "/blog"
+
+#[[main]]
+#parent = "Services"
+#name = "Nous contacter"
+#url = "/contact"
+
+#[[main]]
+#parent = "Services"
+#name = "Nos équipes"
+#url = "/authors"
+
+#[[main]]
+#parent = "Pages"
+#name = "Categories"
+#url = "/categories"
+
+#[[main]]
+#parent = "Pages"
+#name = "404 Page"
+#url = "/404"
+
 [[main]]
-parent = "Services"
-name = "AI"
+parent = "Nos réalisations"
+name = "Télémédecine"
+url = "/telemedecine"
+
+[[main]]
+parent = "Nos réalisations"
+name = "Assurance en ligne"
+url = "/assurance-en-ligne"
+
+[[main]]
+parent = "Nos réalisations"
+name = "Estimation des biens immobiliers"
+url = "/estimation-des-biens-immobiliers"
+
+[[main]]
+name = "Nous contacter"
 url = "/contact"
-
-[[main]]
-parent = "Services"
-name = "Expertise globale"
-url = "/authors"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
-
+weight = 3
 
 # footer menu
 [[footer]]

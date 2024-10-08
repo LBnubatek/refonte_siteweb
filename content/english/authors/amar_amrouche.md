@@ -1,5 +1,5 @@
 ---
-title: William Jacob
+title: Amar Amrouche Président « Nuba Tek Algérie »
 email: williamjacob@email.com
 image: "/images/avatar.png"
 description: this is meta description
@@ -17,4 +17,4 @@ social:
     link: https://linkedin.com
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Ingénieur en Informatique d’une grande école, il cumule plus 15 années d’expérience auprès de grands groupes internationaux durant lesquelles il a réalisé des études des besoins fonctionnels de clients/prospects et assurer le suivi de la réalisation des projets.
