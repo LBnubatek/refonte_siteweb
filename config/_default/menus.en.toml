@@ -16,10 +16,10 @@ weight = 2
 #url = "/elements"
 #weight = 3
 
-[[main]]
-name = "Nos équipes"
-url = "/authors"
-weight = 3
+#[[main]]
+#name = "Nos équipes"
+#url = "/authors"
+#weight = 3
 
 [[main]]
 name = "Blog"
